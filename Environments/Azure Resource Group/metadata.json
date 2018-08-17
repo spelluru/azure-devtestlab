@@ -1,0 +1,6 @@
+{
+  "itemDisplayName": "Azure Resource Group",
+  "description": "This template creates an Azure resource group.",
+  "githubUsername": "Microsoft",
+  "summary": "Deploys an Azure Web App as an environment in a DevTest Lab."
+}
